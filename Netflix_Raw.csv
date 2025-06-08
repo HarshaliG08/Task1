@@ -1,0 +1,11 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration
+s1,Movie,The Matrix,Lana Wachowski,USA,1-Jan,2020,PG-13,136 min
+s2,TV Show,Stranger Things,,USA,1/1/2016,2016,TV-MA,3 Seasons
+s3,Movie, the matrix ,Lana Wachowski,USA,1-Jan-20,1999,pg13,136 min
+s4,Movie,Inception, Christopher Nolan,,15-07-2010,2010,PG 13,148 min
+s5,TV Show,Breaking Bad,Vince Gilligan,United States,20-Jan,2008,TV-MA,5 Seasons
+s6,Movie,Titanic,James Cameron,Canada,9/15/1997,1997,PG-13,194 min
+s7,TV Show,The Office,,USA,25-Mar-05,2005,tv-14,9 Seasons
+s8,Movie,The Dark Knight,Christopher Nolan,UK,18-Jul,2008,PG-13,152 min
+s9,Movie,,Quentin Tarantino,USA,10/10/2019,2019,R,161 min
+s10,TV Show,Friends,,USA,1/1/1994,1994,TV-14,10 Seasons
